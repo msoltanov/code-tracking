@@ -1,0 +1,1 @@
+ C:\\DockerWorkspace\\currency_converter\\.dart_tool\\flutter_build\\bdd889c4ea610a6d4c2f61a04c20c0a3\\native_assets.yaml: 
